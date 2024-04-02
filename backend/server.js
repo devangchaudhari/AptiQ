@@ -19,7 +19,13 @@ const questions = {
 const certify = require('./backend/certificate.json');
 
 app.use(bodyParser.json());
-app.use(cors());
+app.use(cors(
+  {
+    origin: ["https://aptiq.vercel.app"],
+    methods: ["POST","GET"],
+    credentials: true
+  }
+));
 app.use(express.json());
 
 //Endpoint for certificate question
