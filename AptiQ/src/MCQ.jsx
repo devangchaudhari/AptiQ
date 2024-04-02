@@ -21,7 +21,7 @@ const MCQ = () => {
 
   const fetchQuestions = async () => {
     try {
-      const response = await axios.get(`aptiq.vercel.app/questions/${category}`);
+      const response = await axios.get(`https://aptiq.vercel.app/questions/${category}`);
       setQuestions(response.data);
       setSubmitted(new Array(response.data.length).fill(false));
     } catch (error) {
@@ -38,7 +38,7 @@ const MCQ = () => {
 
   const handleSubmit = async (questionIndex) => {
     try {
-      const response = await axios.post('aptiq.vercel.app/api/submit-answers', {
+      const response = await axios.post('https://aptiq.vercel.app/api/submit-answers', {
         category: category,
         answers: Object.values(selectedOptions)
       });
