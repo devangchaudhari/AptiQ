@@ -16,7 +16,7 @@ const Certification = () => {
 
   const fetchQuestions = async () => {
     try {
-      const response = await fetch('http://localhost:3001/questions');
+      const response = await fetch('http://localhost:5000/certify');
       const data = await response.json();
       setQuestions(data);
       // Initialize answers state with empty values for each question

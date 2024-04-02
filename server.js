@@ -16,9 +16,17 @@ const questions = {
   
   // Add more categories if needed
 };
+const certify = require('./certificate.json');
 
 app.use(bodyParser.json());
 app.use(cors());
+app.use(express.json());
+
+//Endpoint for certificate question
+app.get('/certify', (req, res) => {
+  res.json(certify);
+});
+
 
 // Endpoint to get questions based on category
 app.get('/questions/:category', (req, res) => {
