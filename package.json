@@ -1,0 +1,22 @@
+{
+  "name": "aptiq",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^8.1.1",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.19.1",
+    "fs": "^0.0.1-security",
+    "html-pdf": "^3.0.1",
+    "nodemailer": "^6.9.13"
+  }
+}

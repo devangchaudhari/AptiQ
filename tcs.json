@@ -1,0 +1,130 @@
+[
+    {
+      "question": "What is the fourth proportional of 0.006, 1.2 & 6/25?",
+      "options": ["36", "48", "4.8", "3.6"],
+      "correctAnswer": "48"
+    },
+    {
+      "question": "Two ants of length 1 cm and 1.2 cm crawl in opposite directions with average speeds of 2 and 3 mm per second respectively. How many seconds will they take to cross each other?",
+      "options": ["4.4", "2.8", "0.4", "1.5"],
+      "correctAnswer": "4.4"
+    },
+    {
+      "question": "The index numbers of five commodities are 121, 123, 125, 126, 128 and the weights assigned to these are respectively 5, 11, 10, 8, 6. Then what is the weighted average index number?",
+      "options": ["123.8", "124.2", "124.6", "125.2"],
+      "correctAnswer": "124.6"
+    },
+    {
+      "question": "Which one among the following has the least value?",
+      "options": ["√75 - √74", "√74 - √73", "√77 - √76", "√76 - √75"],
+      "correctAnswer": "√77 - √76"
+    },
+    {
+      "question": "A sum was lent to Ravi for three years by an organization that fixed a yearly rate of 10% compound Interest for repayment along with the condition of recovery in equal instalments of Rs.31944. What percentage (correct to two decimal places) above the borrowed amount Ravi had to pay the organization?",
+      "options": ["18.43%", "21.25%", "16.52%", "20.63%"],
+      "correctAnswer": "20.63%"
+    },
+    
+    {
+        "question": "What is the fourth proportional of 0.006, 1.2 & 6/25?",
+        "options": ["36", "48", "4.8", "3.6"],
+        "correctAnswer": "48"
+      },
+      {
+        "question": "Two ants of length 1 cm and 1.2 cm crawl in opposite directions with average speeds of 2 and 3 mm per second respectively. How many seconds will they take to cross each other?",
+        "options": ["4.4", "2.8", "0.4", "1.5"],
+        "correctAnswer": "4.4"
+      },
+      {
+        "question": "The index numbers of five commodities are 121, 123, 125, 126, 128 and the weights assigned to these are respectively 5, 11, 10, 8, 6. Then what is the weighted average index number?",
+        "options": ["123.8", "124.2", "124.6", "125.2"],
+        "correctAnswer": "124.6"
+      },
+      {
+        "question": "Which one among the following has the least value?",
+        "options": ["√75 - √74", "√74 - √73", "√77 - √76", "√76 - √75"],
+        "correctAnswer": "√77 - √76"
+      },
+      {
+        "question": "A sum was lent to Ravi for three years by an organization that fixed a yearly rate of 10% compound Interest for repayment along with the condition of recovery in equal instalments of Rs.31944. What percentage (correct to two decimal places) above the borrowed amount Ravi had to pay the organization?",
+        "options": ["18.43%", "21.25%", "16.52%", "20.63%"],
+        "correctAnswer": "20.63%"
+      },
+      {
+        "question": "A retailer purchased 25 identical toys for a price of Rs P and sold some of them for Rs P. If he calculated his profit as 8%, with selling price as base instead of cost price then how many did he sell?",
+        "options": ["24", "20", "21", "23"],
+        "correctAnswer": "23"
+      },
+      {
+        "question": "A sum of Rs.12500 is invested on 1st January 2016 at 4% simple interest p.a. How much interest in Rs. gets accrued on the end of the day on 1st July 2016?",
+        "options": ["240", "400", "250", "500"],
+        "correctAnswer": "250"
+      },
+      {
+        "question": "What is the real value of (0.000314 + 0.000198)^(1/3)?",
+        "options": ["0.04", "0.08", "0.8", "0.4"],
+        "correctAnswer": "0.08"
+      },
+      {
+        "question": "A man who has to walk 11 km finds that in 30 minutes he has travelled two-ninth of the remaining distance. What is his speed in km/h?",
+        "options": ["4.8", "4", "4.2", "4.5"],
+        "correctAnswer": "4"
+      },
+      {
+        "question": "With what value should the highest quantity in data 65, 52, 14, 26, 18, 35, 32, 38 be replaced so that the mean and median become equal?",
+        "options": ["51", "66", "64", "53"],
+        "correctAnswer": "53"
+      },
+      {
+        "question": "A work is assigned to 6 men and 12 women and they could complete it in 3 days. It was also observed that together they can do 7 times as much work a man and a woman can do. In how many days would 14 women have done the work?",
+        "options": ["10", "6", "12", "9"],
+        "correctAnswer": "9"
+      },
+      {
+        "question": "If the HCF of 180 and 432 is expressed as (180m + 432n), where m and n are integers, then what is the difference between m and n?",
+        "options": ["3", "7", "9", "8"],
+        "correctAnswer": "7"
+      },
+      {
+        "question": "A sales representative’s commission is 6% on all sales up to Rs. 15000 and 5% on all sales exceeding this. He remits Rs. 47350 to his company after deducting his commission. What were the total sales?",
+        "options": ["Rs. 49000", "Rs. 47500", "Rs. 50500", "Rs. 50000"],
+        "correctAnswer": "Rs. 50000"
+      },
+      {
+        "question": "If n is an integer such that 1nn352 is a six-digit number exactly divisible by 24, what will be the sum of the possible values of n?",
+        "options": ["15", "27", "9", "21"],
+        "correctAnswer": "15"
+      },
+      {
+        "question": "What is the mean proportional (MP) between the MPs of (2/7 & 32/343) and (2 & 1/5000)?",
+        "options": ["3/35", "4/35", "2/35", "2/175"],
+        "correctAnswer": "2/35"
+      },
+      {
+        "question": "How much percentage is (0.025% of 240% of 1.5) of 0.9?",
+        "options": ["0.01", "10", "0.1", "1"],
+        "correctAnswer": "0.1"
+      },
+      {
+        "question": "What is the mean deviation of the data: 8, 9, 12, 15, 16, 20, 24, 30, 32, 34?",
+        "options": ["8", "10.2", "0", "9.2"],
+        "correctAnswer": "8"
+      },
+      {
+        "question": "What is the diameter in cm of a solid right circular cylinder whose height is 6 cm and the area of the curved surface is five times the combined area of the two flat surfaces?",
+        "options": ["3", "2.4", "1.2", "0.9"],
+        "correctAnswer": "2.4"
+      },
+      {
+        "question": "In a competitive exam, 5 marks are awarded for every correct answer, and for every wrong answer, 2 marks are deducted. Sathwik scored 32 marks in this examination. If 4 marks have been awarded for each correct answer and 1 mark had been deducted for each incorrect answer, Sathwik would have scored 34 marks. If Sathwik attempted all the questions, how many questions were there in the test?",
+        "options": ["20", "14", "12", "26"],
+        "correctAnswer": "26"
+      },
+      {
+        "question": "If a circle is inscribed in a square with an area of 64 square units, what is the circumference of the circle?",
+        "options": ["16π", "8π", "32π", "4π"],
+        "correctAnswer": "8π"
+      }
+    
+    
+]

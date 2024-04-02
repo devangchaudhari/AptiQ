@@ -1,0 +1,218 @@
+[
+    {
+      "question": "Anil, introducing a girl in a party, said, she is the wife of the 12, grandson of my mother. How is Anil related to the girl?",
+      "options": ["Father", "Grandfather", "Husband", "Father-in-law"],
+      "correctAnswer": "Husband"
+    },
+    {
+      "question": "A man said to a woman, 'Your mother‘s husband‘s sister is my aunt.' How is the woman related to the man?",
+      "options": ["Granddaughter", "Daughter", "Sister", "Aunt"],
+      "correctAnswer": "Aunt"
+    },
+    {
+      "question": "Introducing Rajesh, Neha said, 'His brother‘s father is the only son of my grandfather'. How is Neha related to Rajesh?",
+      "options": ["Sister", "Daughter", "Mother", "Niece"],
+      "correctAnswer": "Mother"
+    },
+    {
+      "question": "Vinod is the brother of Bhaskar. Manohar is the sister of Vinod. Biswal is the brother of Preetam and Preetam is the daughter of Bhaskar. Who is the uncle of Biswal?",
+      "options": ["Bhaskar", "Manohar", "Vinod", "Insufficient data"],
+      "correctAnswer": "Manohar"
+    },
+    {
+      "question": "A man said to a woman, 'Your brother‘s only sister is my mother.' What is the relation of the woman with the maternal grandmother of that man?",
+      "options": ["Mother", "Sister", "Niece", "Daughter"],
+      "correctAnswer": "Mother"
+    },
+    {
+      "question": "Pointing to a photograph, a man said, 'I have no brother or sister but that man‘s father is my father‘s son.' Whose photograph was it?",
+      "options": ["His own", "His son's", "His father's", "His nephew's"],
+      "correctAnswer": "His son's"
+    },
+    {
+      "question": "Pointing to a photograph, a lady tells Pramod, 'I am the only daughter of this lady and her son is your maternal uncle.' How is the speaker related to Pramod‘s father?",
+      "options": ["Sister-in-law", "Wife", "Neither (a) nor (b)", "Aunt"],
+      "correctAnswer": "Wife"
+    },
+    {
+      "question": "Introducing a man, a woman said, 'His wife is the only daughter of my mother.' How is the woman related to that man?",
+      "options": ["Aunt", "Wife", "Mother-in-law", "Maternal Aunt"],
+      "correctAnswer": "Wife"
+    },
+    {
+      "question": "Deepak said to Nitin, 'That boy playing with the football is the younger of the two brothers of the daughter of my father‘s wife.' How is the boy playing football related to Deepak?",
+      "options": ["Son", "Brother", "Cousin", "Nephew"],
+      "correctAnswer": "Brother"
+    },
+    {
+      "question": "A is the mother of B, C is the father of B and C has 3 children. On the basis of this information, find out which of the following relations is correct:",
+      "options": ["C has three daughters.", "C has three sons.", "B is the son.", "None of these."],
+      "correctAnswer": "None of these."
+    },
+    {
+      "question": "A man pointing to a photograph says, 'The lady in the photograph is my nephew‘s maternal grandmother.' How is the lady in the photograph related to the man‘s sister who has no other sister?",
+      "options": ["Cousin", "Sister-in-law", "Mother", "Mother-in-law"],
+      "correctAnswer": "Mother"
+    },
+    {
+      "question": "A is the brother of B. A is the brother of C. To find what is the relation between B and C. What minimum information from the following is necessary?",
+      "options": ["Only (i)", "Only(ii)", "Either (i) or (ii)", "Both (i) and (ii)"],
+      "correctAnswer": "Both (i) and (ii)"
+    },
+    {
+      "question": "Mohan is son of Arun‘s father‘s sister. Prakash is son of Reva, who is mother of Vikash and grandmother of Arun Pranab is father of Neela and grandfather of Mohan. Reva is wife of Pranab. How is Vikash‘s wife related to Neela?",
+      "options": ["Sister", "Niece", "Sister-in-law", "Data inadequate"],
+      "correctAnswer": "Data inadequate"
+    },
+    {
+      "question": "There is a family of 6 persons A, B, C, D, E and F. There are two married couples in the family. The family members are lawyer, teacher, salesman, engineer, accountant and doctor. D, the salesman is married to the lady teacher. The doctor is married to the lawyer. F, the accountant is the son of B and brother of E. C, the lawyer is the daughter-in-law of A. E is the unmarried engineer. A is the grandmother of F. How is E related to F?",
+      "options": ["Brother", "Sister", "Father", "Cannot be established"],
+      "correctAnswer": "Cannot be established"
+    },
+    {
+      "question": "Pointing to a girl, Abhishek said, 'She is daughter of the only child of my father.' How is Abhishek‘s wife related to that girl?",
+      "options": ["Daughter", "Mother", "Aunt", "Sister"],
+      "correctAnswer": "Mother"
+    },
+    {
+      "question": "Introducing Sarita, Meena said, 'She is the only daughter of my father‘s only daughter.' How is Meena related to Sarita?",
+      "options": ["Niece", "Cousin", "Aunt", "None of these"],
+      "correctAnswer": "None of these"
+    },
+    {
+      "question": "A and B are married couple. X and Y are brothers. X is the brother of A. How is Y related to B?",
+      "options": ["Brother-in-law", "Brother", "Son-in-law", "Cousin"],
+      "correctAnswer": "Brother-in-law"
+    },
+    {
+      "question": "A is the son of C; C and Q are sisters; Z is the mother of Q and P is the son of Z. Which of the following statements is true?",
+      "options": ["P and A are cousins", "P is the maternal uncle of A", "Q is the maternal grandfather of A", "C and P are sisters"],
+      "correctAnswer": "P is the maternal uncle of A"
+    },
+    {
+        "question": "Pointing out to a photograph, a man tells his friend,' she is the daughter of the only son of my father's wife. How is the girl related to the man in the photograph?",
+        "options": ["Daughter", "Cousin", "Mother", "Sister"],
+        "correctAnswer": "Daughter"
+      },
+      {
+        "question": "Pointing to a boy, Meena says, 'He is the son of my grandfather‘s only son.' How is the boy‘s mother related to Meena?",
+        "options": ["Mother", "Aunt", "Sister", "Data inadequate"],
+        "correctAnswer": "Mother"
+      },
+      {
+        "question": "Pointing to a lady in the photograph, Shaloo said, 'Her son‘s father is the son-in-law of my mother'. How is Shaloo related to the lady?",
+        "options": ["Aunt", "Sister", "Cousin", "Mother"],
+        "correctAnswer": "Aunt"
+      },
+      {
+        "question": "Pointing to Kapil, Shilpa said, 'His mother‘s brother is the father of my son Ashish. How is Kapil related to Shilpa's Husband?",
+        "options": ["Sister-in-law", "Nephew", "Aunt", "Niece"],
+        "correctAnswer": "Nephew"
+      },
+      {
+        "question": "A man said to lady, 'Your mother‘s husband‘s sister is my aunt.' How is the lady related to the man?",
+        "options": ["Daughter", "Granddaughter", "Mother", "Sister"],
+        "correctAnswer": "Sister"
+      },
+      {
+        "question": "A family has a man, his wife, their four sons and their wives. The family of every son also have 3 sons and one daughter. Find out the total number of male members in the family.",
+        "options": ["4", "8", "12", "17"],
+        "correctAnswer": "17"
+      },
+      {
+        "question": "A is B‘s sister. C is B‘s mother. D is C‘s father. E is D‘s mother. Then, how is A related to D?",
+        "options": ["Grandmother", "Grandfather", "Daughter", "Granddaughter"],
+        "correctAnswer": "Granddaughter"
+      },
+      {
+        "question": "In a joint family, there are father, mother, 3 married sons and one unmarried daughter. Of the sons, two have 2 daughters each and one has a son. How many females members are there in the family?",
+        "options": ["2", "3", "6", "9"],
+        "correctAnswer": "9"
+      },
+      {
+        "question": "A, B and C are sisters. D is the brother of E and E is the daughter of B. How is A related to D?",
+        "options": ["Sister", "Cousin", "Niece", "Aunt"],
+        "correctAnswer": "Aunt"
+      },
+      {
+        "question": "F is the brother of A. C is the daughter of A. K is the sister of F. G is the brother of C. Who is the uncle of G?",
+        "options": ["A", "C", "F", "K"],
+        "correctAnswer": "F"
+      },
+      {
+        "question": "P is the brother of Q and R. S is the R‘s mother. T is P‘s father. Which of the following statements cannot be definitely true?",
+        "options": ["T is Q‘s father", "S is P‘s mother", "T is S‘s husband", "S is T‘s son"],
+        "correctAnswer": "S is T‘s son"
+      },
+      {
+        "question": "A party consisted of a man, his wife, his three sons and their wives and three children in each son's family. How many were there in the party?",
+        "options": ["24", "22", "13", "17"],
+        "correctAnswer": "17"
+      },
+      {
+        "question": "Nithya is Sam‘s Sister. Mogan is Sam‘s Father. Selvan is Rajan‘s Son. Rajan is Mogan‘s Brother. How is Nithya related to Selvan?",
+        "options": ["Daughter", "Sister", "Cousin", "Wife"],
+        "correctAnswer": "Cousin"
+      },
+      {
+        "question": "X‘ is the wife of ′Y′ and ‗Y‘ and ‗Y‘ is the brother of ‗Z‘, ‗Z‘ is the son of ‗P‘. How is ‘P‘ related to ‗X‘ ?",
+        "options": ["Sister", "Aunt", "Brother", "Data inadequate"],
+        "correctAnswer": "Data inadequate"
+      },
+      {
+        "question": "Suket has three daughters and each daughter has a brother. How many male members are there in the family.",
+        "options": ["4", "2", "3", "1"],
+        "correctAnswer": "2"
+      },
+      {
+        "question": "A, B, C, D, E, F and G are members of a family consisting of 4 adults and 3 children, two of whom, F and G are girls. A and D are brothers and A is a doctor. E is an engineer married to one of the brothers and has two children. B is married to D and G is their child. Who is C?",
+        "options": ["G‘s brother", "F‘s father", "E‘s father", "A‘s son"],
+        "correctAnswer": "A‘s son"
+      },
+      {
+        "question": "Examine the following relationships among members of a family of six persons A, B, C, D, E and F. 1. The number of males equals that of females 2. A and E are sons of F. 3. D is the mother of two, one boy and one girl 4. B is the son of A 5. There is only one married couple in the family at present which one of the following inferences can be drawn from the above?",
+        "options": ["A, B and C are all females", "A is the husband of D", "E and F are children of D", "D is the grand daughter of F"],
+        "correctAnswer": "A is the husband of D"
+      },
+      {
+        "question": "Introducing a man, a woman said, 'He is the only son of my mother‘s mother.‘ How is the woman related to the man?",
+        "options": ["Mother", "Cousin", "Niece", "Aunt"],
+        "correctAnswer": "Niece"
+      },
+      {
+        "question": "Pointing to a man in the park, Naman said, 'His son is my son‘s uncle.' How is the man related to Naman?",
+        "options": ["Brother", "Father", "Uncle", "Grandfather"],
+        "correctAnswer": "Father"
+      },
+      {
+        "question": "Following are some information about a family consisting of 4 members P, Q, R and S. P is an adult male and has 2 children. Q is the son-in-law of P. R is Q's brother-in-law. There is just one couple in the family. Who is the daughter of P?",
+        "options": ["P", "R", "Q", "S"],
+        "correctAnswer": "S"
+      },
+      {
+        "question": "In a family of 5, P is the father of R. S is Q‘s son. S has R as sister. Therefore, if U has P as brother, then the relationship between Q and U is as follows.",
+        "options": ["Q is U‘s daughter", "U is Q‘s wife", "Q is the sister-in-law of U", "Q is U‘s brother-in-law"],
+        "correctAnswer": "Q is U‘s brother-in-law"
+      },
+      {
+        "question": "Looking at a portrait of a man, Harsh said, 'His mother is the wife of my father's son. Brothers and sisters I have none. 'At whose portrait was Harsh looking?",
+        "options": ["His son", "His cousin", "His uncle", "His nephew"],
+        "correctAnswer": "His son"
+      },
+      {
+        "question": "Deepak said to Nitin, 'That boy playing football is the younger of the two brothers of the daughter of my father‘s wife.' How is the boy playing football related to Deepak?",
+        "options": ["Son", "Brother", "Cousin", "Nephew"],
+        "correctAnswer": "Brother"
+      },
+      {
+        "question": "Pointing to Kapil, Shilpa said, 'His mother‘s brother is the father of my son Ashish.‖ How is Kapil related to Shilpa?",
+        "options": ["Sister-in-law", "Nephew", "Niece", "Aunt"],
+        "correctAnswer": "Nephew"
+      },
+      {
+        "question": "Pointing to a man, a lady said 'His mother is the only daughter of my mother' How is the lady related to the man?",
+        "options": ["Mother", "Daughter", "Sister", "Aunt"],
+        "correctAnswer": "Mother"
+      }
+   
+    ]

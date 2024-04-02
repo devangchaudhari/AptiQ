@@ -1,0 +1,51 @@
+[
+  
+    {
+        "question": "If n is an integer such that 1nn352 is a six-digit number exactly divisible by 24, what will be the sum of the possible values of n?",
+        "options": ["15", "27", "9", "21"],
+        "correctAnswer": "15"
+      },
+      {
+        "question": "What is the mean proportional (MP) between the MPs of (2/7 & 32/343) and (2 & 1/5000)?",
+        "options": ["3/35", "4/35", "2/35", "2/175"],
+        "correctAnswer": "2/35"
+      },
+    {
+      "question": "A man said to a woman, 'Your mother‘s husband‘s sister is my aunt.' How is the woman related to the man?",
+      "options": ["Granddaughter", "Daughter", "Sister", "Aunt"],
+      "correctAnswer": "Aunt"
+    },{
+        "question": "Kiran has only Rs. 130 left after using 35% of the money she had after shopping. Find the total money with Kiran before she went for shopping.",
+        "options": ["100", "10", "65", "200"],
+        "answer": "Rs. 200"
+      },
+      {
+        "question": "Ramesh has Rs. 50 and Rohan has Rs. 2.5. Find the ratio of money with Ramesh and Rohan have with them.",
+        "options": ["1/200", "200/1", "3/500", "500/2"],
+        "answer": "200/1"
+      },
+      {
+        "question": "In a competitive exam, 5 marks are awarded for every correct answer, and for every wrong answer, 2 marks are deducted. Sathwik scored 32 marks in this examination. If 4 marks have been awarded for each correct answer and 1 mark had been deducted for each incorrect answer, Sathwik would have scored 34 marks. If Sathwik attempted all the questions, how many questions were there in the test?",
+        "options": ["20", "14", "12", "26"],
+        "correctAnswer": "26"
+      },
+      {
+        "question": "If a circle is inscribed in a square with an area of 64 square units, what is the circumference of the circle?",
+        "options": ["16π", "8π", "32π", "4π"],
+        "correctAnswer": "8π"
+      }, {
+        "question": "What percentage of numbers starting from 1 to 70 have 1 or 9 in the unit's digit?",
+        "options": [" 1", "14", "20", "21"],
+        "answer": "20%"
+      },
+      {
+        "question": "Worker A takes 8 hours for job completion. Worker B takes 10 hours for job completion. How long should it take both A and B, to work together to do the same job?",
+        "options": [" 4/9", "2 (4/9)", "3 (4/9)", "4 (4/9)"],
+        "answer": "4(4/9)"
+      },
+      {
+        "question": "A is doubly good as an employee as B and therefore, able to finish a piece of work in 30 days less than B. In how many days they can complete the whole work; working together?",
+        "options": [" 10 Days", "20 Days", "30 Days", "40 Days"],
+        "answer": "20 days"
+      }
+    ]
