@@ -21,7 +21,7 @@ const certify = require('./backend/certificate.json');
 app.use(bodyParser.json());
 app.use(cors(
   {
-    origin: ["https://apti-q.vercel.app"],
+    origin: ["https://apti-q.vercel.app/"],
     methods: ["POST","GET"],
     credentials: true
   }
