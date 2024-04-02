@@ -1,6 +1,6 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-// import MCQ from './MCQ.jsx'
+
 import App from './App.jsx'
 import './index.css'
 
