@@ -1,9 +1,8 @@
-// MCQ.jsx
+
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
-import Course from './components/Course';
 import { useLocation } from 'react-router-dom';
 
 const MCQ = () => {
