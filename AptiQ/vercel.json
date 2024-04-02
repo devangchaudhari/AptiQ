@@ -1,17 +1,7 @@
 {
     "version": 2,
-    "routes": [
-      { "handle": "filesystem" },
-      {
-        "src": "/.*",
-        "dest": "/index.html"
-      }
-    ],
     "rewrites": [
-      {
-        "source": "/api/(.*)",
-        "destination": "/api/$1"
-      }
+      { "source": "/(.*)", "destination": "/index.html" }
     ]
   }
   
