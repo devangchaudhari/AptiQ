@@ -16,7 +16,7 @@ const Certification = () => {
 
   const fetchQuestions = async () => {
     try {
-      const response = await fetch('http://localhost:5000/certify');
+      const response = await fetch('aptiq.vercel.app/certify');
       const data = await response.json();
       setQuestions(data);
       // Initialize answers state with empty values for each question
