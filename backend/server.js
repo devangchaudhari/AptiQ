@@ -14,33 +14,25 @@ const questions = {
   tcs: require('./tcs.json'),
   infosys: require('./infosys.json'),
   accenture: require('./accenture.json'),
-  
   // Add more categories if needed
 };
 const certify = require('./certificate.json');
 
 app.use(bodyParser.json());
-app.use(cors(
-  {
-    origin: ["https://apti-q.vercel.app"],
-    methods: ["POST","GET"],
-    credentials: true
-  }
-));
+app.use(cors({
+  origin: "https://apti-q.vercel.app", // Update with your Vercel app URL
+  methods: ["POST", "GET"],
+  credentials: true
+}));
 app.use(express.json());
 
-
+// Serve static files from the build directory
 app.use(express.static(path.join(__dirname, 'build')));
 
-app.get('/*', function (req, res) {
-  res.sendFile(path.join(__dirname, 'build', 'index.html'));
-});
-
-//Endpoint for certificate question
+// Endpoint for certificate question
 app.get('/certify', (req, res) => {
   res.json(certify);
 });
-
 
 // Endpoint to get questions based on category
 app.get('/questions/:category', (req, res) => {
@@ -74,9 +66,12 @@ app.post('/api/submit-answers', (req, res) => {
   res.json(feedback);
 });
 
+// Serve index.html for any route (necessary for client-side routing)
+app.get('*', function (req, res) {
+  res.sendFile(path.join(__dirname, 'build', 'index.html'));
+});
+
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
-
-
 
 
 
