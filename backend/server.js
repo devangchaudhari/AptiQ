@@ -7,24 +7,24 @@ const PORT = process.env.PORT || 5000;
 
 // Sample questions data for different categories
 const questions = {
-  general: require('./backend/questions.json'),
-  logical: require('./backend/logical.json'),
-  blood: require('./backend/bloodrelation.json'),
-  tcs: require('./backend/tcs.json'),
-  infosys: require('./backend/infosys.json'),
-  accenture: require('./backend/accenture.json'),
+  general: require('./questions.json'),
+  logical: require('./logical.json'),
+  blood: require('./bloodrelation.json'),
+  tcs: require('./tcs.json'),
+  infosys: require('./infosys.json'),
+  accenture: require('./accenture.json'),
   
   // Add more categories if needed
 };
-const certify = require('./backend/certificate.json');
+const certify = require('./certificate.json');
 
 app.use(bodyParser.json());
 app.use(cors(
-  {
-    origin: ["https://aptiq.vercel.app"],
-    methods: ["POST","GET"],
-    credentials: true
-  }
+  // {
+  //   origin: ["https://aptiq.vercel.app"],
+  //   methods: ["POST","GET"],
+  //   credentials: true
+  // }
 ));
 app.use(express.json());
 
