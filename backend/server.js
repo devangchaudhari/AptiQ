@@ -20,11 +20,11 @@ const certify = require('./certificate.json');
 
 app.use(bodyParser.json());
 app.use(cors(
-  // {
-  //   origin: ["https://aptiq.vercel.app"],
-  //   methods: ["POST","GET"],
-  //   credentials: true
-  // }
+  {
+    origin: ["https://apti-q.vercel.app"],
+    methods: ["POST","GET"],
+    credentials: true
+  }
 ));
 app.use(express.json());
 
