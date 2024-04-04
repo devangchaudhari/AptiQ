@@ -1,6 +1,7 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require("cors");
+const path = require('path');
 
 const app = express();
 const PORT = process.env.PORT || 5000;
@@ -13,7 +14,6 @@ const questions = {
   tcs: require('./tcs.json'),
   infosys: require('./infosys.json'),
   accenture: require('./accenture.json'),
-  
   // Add more categories if needed
 };
 const certify = require('./certificate.json');
@@ -28,14 +28,13 @@ app.use(cors(
 ));
 app.use(express.json());
 
+// Serve static files from the 'AptiQ/dist' directory
+app.use(express.static(path.join(__dirname, '..', 'AptiQ', 'dist')));
 
-
-
-//Endpoint for certificate question
+// Endpoint for certificate question
 app.get('/certify', (req, res) => {
   res.json(certify);
 });
-
 
 // Endpoint to get questions based on category
 app.get('/questions/:category', (req, res) => {
@@ -67,6 +66,11 @@ app.post('/api/submit-answers', (req, res) => {
   });
 
   res.json(feedback);
+});
+
+// Fallback for React Router
+app.get('*', function(req, res) {
+  res.sendFile(path.join(__dirname, '..', 'AptiQ', 'dist', 'index.html'));
 });
 
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
