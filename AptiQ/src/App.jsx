@@ -18,7 +18,7 @@ function App() {
     return (
       <>
       {/* <BrowserRouter> */}
-      <Router basename="/my-subdirectory">
+      <Router >
       <Routes>
         <Route path="/" element={<>
         <Home></Home></>}></Route>

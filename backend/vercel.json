@@ -11,11 +11,8 @@
         "dest": "server.js"
       }
      
-    ],
-    "rewrites": [
-      { "source": "/my-subdirectory/(.*)", "destination": "/my-subdirectory/index.html" },
-      { "source": "/(.*)", "destination": "/index.html" }
     ]
+ 
   }
 
   
