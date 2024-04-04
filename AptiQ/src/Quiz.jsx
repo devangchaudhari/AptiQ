@@ -1,9 +1,8 @@
-// Quiz.jsx
 import React from 'react';
-import { Link } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import Course from './components/Course';
+import { Link } from 'react-router-dom'; // Import Link from react-router-dom
 
 const Quiz = () => {
   return (
@@ -19,28 +18,24 @@ const Quiz = () => {
           imageUrl="https://via.placeholder.com/150"
           title="C Language"
           description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-          Click="Explore"
           buttonLink="/MCQ?category=general"
         />
         <Course
           imageUrl="https://via.placeholder.com/150"
           title="Blood Relation"
           description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-          Click="Explore"
           buttonLink="/MCQ?category=blood"
         />
         <Course
           imageUrl="https://via.placeholder.com/150"
           title="Logical"
           description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-          Click="Explore"
           buttonLink="/MCQ?category=logical"
         />
         <Course
           imageUrl="https://via.placeholder.com/150"
           title="C++ Language"
           description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-          Click="Explore"
           buttonLink="/MCQ?category=logical"
         />
       </div>
@@ -50,6 +45,5 @@ const Quiz = () => {
 };
 
 export default Quiz;
-
 
 
