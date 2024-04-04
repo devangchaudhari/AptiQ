@@ -18,7 +18,7 @@ function App() {
     return (
       <>
       {/* <BrowserRouter> */}
-      <Router basename={process.env.PUBLIC_URL}>
+      <Router basename="/my-subdirectory">
       <Routes>
         <Route path="/" element={<>
         <Home></Home></>}></Route>
