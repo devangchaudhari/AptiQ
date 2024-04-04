@@ -2,6 +2,7 @@ import React from 'react';
 import Navbar from './Navbar';
 import Course from './Course';
 import Footer from './Footer';
+import { Link } from 'react-router-dom';
 
 const Hero = () => {
   return (
@@ -12,7 +13,7 @@ const Hero = () => {
           <div className="text-center">
             <h1 className="text-white text-4xl md:text-6xl font-bold mb-4">Aptitude Quiz</h1><br />
             <p className="text-white text-lg md:text-2xl mb-4 ">One Stop Solution for your Aptitude Quiz<br /> Round that boost your interview preparation<br /> and helps to get a job</p><br />
-            <a href="/Quiz"><button className="bg-pink-700 hover:bg-pink-900 text-white text-lg md:text-3xl font-bold py-3 px-4 rounded-full"> Start Quiz </button></a>
+            <Link to="/Quiz"><button className="bg-pink-700 hover:bg-pink-900 text-white text-lg md:text-3xl font-bold py-3 px-4 rounded-full"> Start Quiz </button></Link>
           </div>
         </div>
       </div> 
