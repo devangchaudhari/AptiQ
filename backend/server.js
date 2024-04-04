@@ -26,8 +26,8 @@ app.use(cors({
 }));
 app.use(express.json());
 
-// Serve static files from the build directory
-app.use(express.static(path.join(__dirname, 'build')));
+// Serve static files from the dist directory
+app.use(express.static(path.join(__dirname, 'dist')));
 
 // Endpoint for certificate question
 app.get('/certify', (req, res) => {
@@ -68,7 +68,7 @@ app.post('/api/submit-answers', (req, res) => {
 
 // Serve index.html for any route (necessary for client-side routing)
 app.get('*', function (req, res) {
-  res.sendFile(path.join(__dirname, 'build', 'index.html'));
+  res.sendFile(path.join(__dirname, 'dist', 'index.html'));
 });
 
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
