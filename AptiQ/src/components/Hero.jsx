@@ -31,7 +31,7 @@ const Hero = () => {
               buttonLink="/MCQ?category=infosys"
             />
             <Course
-              imageUrl="TCS.jpeg"
+              imageUrl="TCS.jpg"
               title="TCS"
               description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
               Click="Explore"
@@ -59,11 +59,11 @@ const Hero = () => {
               buttonLink="/MCQ?category=nutanix"
             />
             <Course
-              imageUrl="accenture.jpg"
-              title="Accenture"
+              imageUrl="cognizant.jpg"
+              title="Cognizant"
               description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
               Click="Explore"
-              buttonLink="/MCQ?category=accenture"
+              buttonLink="/MCQ?category=cognizant"
             />
           </div>
         </div>
