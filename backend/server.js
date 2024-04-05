@@ -28,7 +28,7 @@ app.use(cors(
 ));
 
 // Serve static files from AptiQ/dist directory
-app.use(express.static(path.join(__dirname, '../AptiQ/dist')));
+app.use(express.static(path.join(__dirname, '../AptiQ/src')));
 
 // Endpoint for certificate question
 app.get('/certify', (req, res) => {
