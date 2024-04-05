@@ -1,3 +1,4 @@
+
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import Navbar from './components/Navbar';
@@ -38,22 +39,23 @@ const MCQ = () => {
     try {
       const response = await axios.post('https://aptiq.vercel.app/api/submit-answers', {
         category: category,
-        answers: [selectedOptions[questionIndex]] // Send only the selected option for the current question
+        answers: Object.values(selectedOptions)
       });
       const feedbackData = response.data;
-
+  
       // Construct the feedback message including correct answers
       const feedbackWithCorrectAnswers = feedbackData.map((feedbackMsg, index) => {
         const correctAnswer = questions[index].correctAnswer;
         return `${feedbackMsg} The correct answer is: ${correctAnswer}`;
       });
-
+  
       setFeedback(feedbackWithCorrectAnswers);
       setSubmitted(prevSubmitted => prevSubmitted.map((value, index) => (index === questionIndex ? true : value)));
     } catch (error) {
       console.error(error);
     }
   };
+  
 
   return (
     <div>
@@ -86,10 +88,13 @@ const MCQ = () => {
               Submit
             </button>
             {submitted[index] && (
-              <p className={`text-xl mt-2 ${feedback[index].includes('Correct') ? 'text-green-600' : 'text-red-600'}`}>
-                {feedback[index].includes('Correct') ? 'Your answer is correct!' : `Incorrect. The correct answer is: ${questions[index].correctAnswer}`}
-              </p>
+             <p className={`text-xl mt-2 ${feedback[index].includes('Correct') ? 'text-green-600' : 'text-red-600'}`}>
+             {feedback[index].includes('Correct') ? 'Your answer is correct!' : `Incorrect. The correct answer is: ${question.correctAnswer}`}
+           </p>
+           
             )}
+
+
           </div>
         ))}
       </div>
@@ -100,7 +105,6 @@ const MCQ = () => {
 };
 
 export default MCQ;
-
 
 
 
