@@ -11,6 +11,12 @@
         "dest": "server.js"
       }
      
+    ],
+    "rewrites": [
+      { "source": "/api/submit-answers", "destination": "/api/submit-answers" },
+      { "source": "/certify", "destination": "/certify" },
+      { "source": "/questions/:category", "destination": "/questions/:category" },
+      { "source": "/(.*)", "destination": "/index.html" }
     ]
  
   }
