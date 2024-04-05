@@ -45,18 +45,18 @@ const Hero = () => {
               buttonLink="/MCQ?category=accenture"
             />
             <Course
-              imageUrl="accenture.jpg"
-              title="Accenture"
+              imageUrl="PTC.jpg"
+              title="PTC"
               description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
               Click="Explore"
-              buttonLink="/MCQ?category=accenture"
+              buttonLink="/MCQ?category=ptc"
             />
             <Course
-              imageUrl="accenture.jpg"
-              title="Accenture"
+              imageUrl="Nutanix.jpeg"
+              title="Nutanix"
               description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
               Click="Explore"
-              buttonLink="/MCQ?category=accenture"
+              buttonLink="/MCQ?category=nutanix"
             />
             <Course
               imageUrl="accenture.jpg"

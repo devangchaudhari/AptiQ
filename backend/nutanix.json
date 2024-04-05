@@ -1,0 +1,47 @@
+[
+    {
+      "question": "Three friends Anita, Bindu and Champa divide Rs. 1,105 amongst them in such a way that if Rs. 10, Rs. 20 and Rs. 15 are removed from the sums that Anita, Bindu and Champa received respectively, then the share of the sums that they got will be in the ratio of 11 : 18 : 24. How much did Champa receive?",
+      "options": ["Rs. 495", "Rs. 510", "Rs. 480", "Rs. 375"],
+      "correctAnswer": "Rs. 495"
+    },
+    {
+      "question": "A machine is sold at a profit of 10 %. Had it been sold for Rs. 40 less, there would have been a loss of 10 %. What was the cost price of the machine?",
+      "options": ["Rs. 175", "Rs. 200", "Rs. 225", "None of The above"],
+      "correctAnswer": "Rs. 200"
+    },
+    {
+      "question": "Mansi started a business investing Rs.42,000/-. After 7 months Kamya joined her with a capital of Rs. 50,000/-. At the end of the year the total profit was Rs. 30,160/-. What is the share of profit of Kamya?",
+      "options": ["Rs. 10,000/-", "Rs. 20,160/-", "Rs. 10,160/-", "Rs. 8,000/-"],
+      "correctAnswer": "Rs. 10,000/-"
+    },
+    {
+      "question": "The incomes of Chanda and Kim are in the ratio 9 : 4 and their expenditures are in the ratio 7 : 3. If each saves Rs. 2,000, then Chanda's expenditure is",
+      "options": ["Rs. 60,000", "Rs. 80,000", "Rs. 70,000", "None of these"],
+      "correctAnswer": "Rs. 70,000"
+    },
+    {
+      "question": "X and Y entered into partnership with Rs. 700 and Rs. 600 respectively. After 3 months X withdrew 2/7 of his stock but after 3 months, he puts back 3/5 of what he had withdrawn. The profit at the end of the year is Rs. 726. How much of this should X receive?",
+      "options": ["Rs. 336", "Rs. 366", "Rs. 633", "Rs. 663"],
+      "correctAnswer": "Rs. 366"
+    },
+    {
+      "question": "In measuring the sides of a rectangular plot, one side is taken 5 % in excess and the other 6 % in deficit. The error percent in the area calculated, of the plot, is",
+      "options": ["1%", "1.3%", "1.5%", "3%"],
+      "correctAnswer": "1.3%"
+    },
+    {
+      "question": "A man swimming in a stream which flows at 1(1/2) km/hr finds that in a given time he can swim twice as far with the stream as he can against it. At what rate does he swim?",
+      "options": ["4(1/2) km/hr", "5(1/2) km/hr", "7(1/2) km/hr", "None of these"],
+      "correctAnswer": "4(1/2) km/hr"
+    },
+    {
+      "question": "Two cyclists start on a circular track from a given point but in opposite directions with speeds of 7 m/sec and 8 m/sec respectively. If the circumference of the circle is 300 meters, after what time will they meet at the starting point for the first time?",
+      "options": ["20 sec", "100 sec", "300 sec", "200 sec"],
+      "correctAnswer": "300 sec"
+    },
+    {
+      "question": "The odds that A agrees with the truth are 3 : 2 and the odds that ‘B’ agrees with the truth are 5 : 3. In what percent of cases are they likely to agree with each other on an identical point?",
+      "options": ["47.5%", "37.5%", "63.5%", "None of these"],
+      "correctAnswer": "None of these"
+    }
+  ]

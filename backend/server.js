@@ -10,10 +10,15 @@ const questions = {
   general: require('./questions.json'),
   logical: require('./logical.json'),
   blood: require('./bloodrelation.json'),
+  english: require('./english.json'),
+
+
   tcs: require('./tcs.json'),
   infosys: require('./infosys.json'),
   accenture: require('./accenture.json'),
-  english: require('./english.json'),
+  ptc: require('./ptc.json'),
+  nutanix: require('./nutanix.json'),
+  
   
   // Add more categories if needed
 };
