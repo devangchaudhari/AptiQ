@@ -1,7 +1,7 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require("cors");
-
+const path = require("path");
 
 const app = express();
 const PORT = process.env.PORT || 5000;
@@ -27,7 +27,8 @@ app.use(cors(
   }
 ));
 
-
+// Serve static files from AptiQ/dist directory
+app.use(express.static(path.join(__dirname, '../AptiQ/dist')));
 
 // Endpoint for certificate question
 app.get('/certify', (req, res) => {
@@ -67,7 +68,9 @@ app.post('/api/submit-answers', (req, res) => {
 });
 
 // Wildcard route to serve index.html for client-side routing
-
+app.get('*', (req, res) => {
+  res.sendFile(path.join(__dirname, '../AptiQ/dist', 'index.html'));
+});
 
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
 
