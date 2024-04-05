@@ -1,6 +1,6 @@
 const express = require('express');
-const bodyParser = require('body-parser');
 const cors = require("cors");
+const helmet = require('helmet');
 
 const app = express();
 const PORT = process.env.PORT || 5000;
@@ -11,43 +11,34 @@ const questions = {
   logical: require('./logical.json'),
   blood: require('./bloodrelation.json'),
   english: require('./english.json'),
-
-
   tcs: require('./tcs.json'),
   infosys: require('./infosys.json'),
   accenture: require('./accenture.json'),
   ptc: require('./ptc.json'),
   nutanix: require('./nutanix.json'),
-  
-  
-  // Add more categories if needed
 };
+
 const certify = require('./certificate.json');
 
-app.use(bodyParser.json());
-app.use(cors(
-  {
-    origin: ["https://apti-q.vercel.app"],
-    methods: ["POST","GET"],
-    credentials: true
-  }
-));
 app.use(express.json());
-
-
-
+app.use(cors({
+  origin: ["https://apti-q.vercel.app"],
+  methods: ["POST", "GET"],
+  credentials: true
+}));
+app.use(helmet());
 
 //Endpoint for certificate question
 app.get('/certify', (req, res) => {
   res.json(certify);
 });
 
-
 // Endpoint to get questions based on category
 app.get('/questions/:category', (req, res) => {
   const { category } = req.params;
-  if (questions[category]) {
-    res.json(questions[category]);
+  const categoryQuestions = questions[category];
+  if (categoryQuestions) {
+    res.json(categoryQuestions);
   } else {
     res.status(404).json({ error: "Category not found" });
   }
@@ -62,26 +53,22 @@ app.post('/api/submit-answers', (req, res) => {
     return;
   }
 
-  const feedback = [];
-
-  categoryQuestions.forEach((question, index) => {
-    if (answers[index] === question.correctAnswer) {
-      feedback.push(`Question ${index + 1}: Correct!`);
-    } else {
-      feedback.push(`Question ${index + 1}: Incorrect. The correct answer is: ${question.correctAnswer}`);
-    }
+  const feedback = categoryQuestions.map((question, index) => {
+    return answers[index] === question.correctAnswer
+      ? `Question ${index + 1}: Correct!`
+      : `Question ${index + 1}: Incorrect. The correct answer is: ${question.correctAnswer}`;
   });
 
   res.json(feedback);
 });
 
-
+// Error handling middleware
+app.use((err, req, res, next) => {
+  console.error(err.stack);
+  res.status(500).send('Something went wrong!');
+});
 
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
-
-
-
-
 
 
 
