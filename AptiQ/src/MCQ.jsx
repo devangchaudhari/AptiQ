@@ -67,7 +67,7 @@ const MCQ = () => {
         <h1 className="text-4xl font-bold mb-4">All Questions</h1> <br />
         {questions.map((question, index) => (
           <div key={index} className="mb-8">
-            <h2 className="text-2xl font-semibold mb-2">{question.question}</h2>
+            <h2 className="text-gray-700 text-base">{question.question}</h2>
             <ul className="space-y-2 ">
               {question.options.map((option, optionIndex) => (
                 <li key={optionIndex} className="flex items-center">

@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'; // Import Link from react-router-dom
 const Course = ({ imageUrl, title, description, buttonLink }) => {
   return (
     <div className="max-w-xs rounded overflow-hidden shadow-lg m-4">
-      <img className="w-full max-w-xs max-h-xs" src={imageUrl} alt={title} />
+      <img className="w-full " src={imageUrl} alt={title} />
       <div className="px-6 py-4">
         <div className="font-bold text-xl mb-2">{title}</div>
         <p className="text-gray-700 text-base">{description}</p>
