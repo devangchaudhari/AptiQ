@@ -2,164 +2,164 @@
     {
       "question": "The average age of 30 boys in a class is equal to 14 years. When the age of the class teacher is included the average becomes 15 years. Find the age of the class teacher?",
       "options": [" 45", " 42", " 50", " 44"],
-      "correctAnswer": "45"
+      "correctAnswer": " 45"
     },
     {
       "question": "The average of 11 numbers is 10.9. If the average of the first six is 10.5 and that of the last six is 11.4 the sixth number is?",
       "options": [" 11.4", " 11.5", " 11.0", " 11.3"],
-      "correctAnswer": "11.5"
+      "correctAnswer": " 11.4"
     },
     {
       "question": "A shop dealer makes his goods 25% above CP and then while selling gives a discount of 12% on MP. Find his profit % ?",
       "options": [" 15%", " 12%", " 11%", " 10%"],
-      "correctAnswer": "10%"
+      "correctAnswer": " 10%"
     },
     {
       "question": "A and B rent a pasture for 10 months. A put in 80 cows for 7 months. How many can B put in for the remaining 3 months, if he pays half as much again as A?",
       "options": [" 120", " 280", " 180", " 200"],
-      "correctAnswer": "280"
+      "correctAnswer": " 280"
     },
     {
       "question": "Rama Krishna can finish a work in 20 days and Suresh in 25 days. They both work together for 5 days and then Suresh goes away. In how many days will Rama Krishna complete the remaining work?",
       "options": [" 10 days", " 11 days", " 8 days", " 9 days"],
-      "correctAnswer": "11 days"
+      "correctAnswer": " 11 days"
     },
     {
       "question": "If P can do a work in 6 days and Q can do the same work in 8 days. If R who can do the same work in 12 days, joins them, then the work will be completed in how many days?",
       "options": [" 7/3 days", " 8/3 days", " 10/3 days", " 11/3 days"],
-      "correctAnswer": "8/3 days"
+      "correctAnswer": " 8/3 days"
     },
     {
       "question": "5 men and 10 boys can do a piece of work in 30 days and 8 men and 12 boys can do the work in 20 days then the ratio of daily work done by a man to that of the boy.",
       "options": [" 6:1", " 7:3", " 4:5", " 5:1"],
-      "correctAnswer": "6:1"
+      "correctAnswer": " 6:1"
     },
     {
       "question": "A man spends 60% of his income. His income is increased by 20% and his expenditure also increases by 10%. Find the percentage decrease in his saving?",
       "options": [" 15%", " 20%", " 25%", " 10%"],
-      "correctAnswer": "10%"
+      "correctAnswer": " 10%"
     },
     {
       "question": "Rani mixes 70kg of sugar worth Rs.28.50 per kg with 100kg of sugar worth Rs.30.50 per kg. At what rate shall he sell the mixture to gain 10 %?",
       "options": [" Rs.29.75", " Rs.32.64", " Rs.31.50", " Rs.30.46"],
-      "correctAnswer": "Rs.32.64"
+      "correctAnswer": " Rs.32.64"
     },
 
   {
     "question": "A batsman made 110 runs that includes 3 fours and 8 sixes. What percentage of the total runs were made by him by running in between the wickets?",
     "options": [" 45%", "45.05%", "54.06%", "55%"],
-    "answer": "45.05%"
+    "correctAnswer": "45.05%"
   },
   {
     "question": "A fruit vendor has some apples. He sells 40% of his apples. He still possesses 420 apples. What was the original number of apples?",
     "options": [" 588 apples", "600 apples", "672 apples", "700 apples"],
-    "answer": "700"
+    "correctAnswer": "700"
   },
   {
     "question": "Two students attempted an examination. One of the two students scored 9 marks more than the other. His marks were 56% of the sum of both their marks. The marks obtained by them are:",
     "options": [" 39, 30", "41, 32", "42, 33", "43, 34"],
-    "answer": "42, 33"
+    "correctAnswer": "42, 33"
   },
   {
     "question": "If A = x% of y and B = y% of x, then which statement is true?",
     "options": [" A is smaller than B.", "A is greater than B", "Relationship between A and B can't be determined.", "If x is smaller than y, then A is greater than B.", "e) None of these"],
-    "answer": "e) None of these"
+    "correctAnswer": "e) None of these"
   },
   {
     "question": "What percentage of numbers starting from 1 to 70 have 1 or 9 in the unit's digit?",
     "options": [" 1", "14", "20", "21"],
-    "answer": "20%"
+    "correctAnswer": "20%"
   },
   {
     "question": "Worker A takes 8 hours for job completion. Worker B takes 10 hours for job completion. How long should it take both A and B, to work together to do the same job?",
     "options": [" 4/9", "2 (4/9)", "3 (4/9)", "4 (4/9)"],
-    "answer": "4(4/9)"
+    "correctAnswer": "4(4/9)"
   },
   {
     "question": "A is doubly good as an employee as B and therefore, able to finish a piece of work in 30 days less than B. In how many days they can complete the whole work; working together?",
     "options": [" 10 Days", "20 Days", "30 Days", "40 Days"],
-    "answer": "20 days"
+    "correctAnswer": "20 days"
   },
   {
     "question": "A shirt is sold for Rs. 3000 after offering a discount of 5%. What is the marked price of the shirt?",
     "options": [" Rs 1500", "Rs 3157", "Rs 3782", "Rs 4500"],
-    "answer": "3157"
+    "correctAnswer": "3157"
   },
   {
     "question": "Anil and Babu can together complete a task in 8 days. Babu and Charan can do the same job in 12 days. Anil, Babu, and Charan can complete the same task in 6 days. In how many days Anil and Charan can complete the job?",
     "options": [" 6 days", "8 days", "10 days", "12 days"],
-    "answer": "8 days"
+    "correctAnswer": "8 days"
   },
   {
     "question": "A and B together can complete a job in 20 days. B and C together can complete the same task in 30 days. A and C collectively can complete the same job in 30 days. What is the respective ratio of the number of days taken by A when completing the same job by themselves to the number of days taken by C when completing the same task alone?",
     "options": [" 1:3", "2:4", "3:1", "1:5"],
-    "answer": "1:5"
+    "correctAnswer": "1:5"
   },
   {
     "question": "A train running at the speed of 60 km/hr crosses a pole in 9 seconds. What is the train's length?",
     "options": [" 120 meters", "180 meters", "150 meters", "324 meters"],
-    "answer": "150 metres"
+    "correctAnswer": "150 metres"
   },
 
     {
       "question": "The train travels at 30 kmph and the bus travels at 45 kmph. What is the ratio of the speed of the bus with respect to the train?",
       "options": ["3/7", "2/3", "3/2", "5/2"],
-      "answer": "2/3"
+      "correctAnswer": "2/3"
     },
     {
       "question": "At a shopping bonanza, a 55% discount is offered on all its items. What would be the sale price of a shoe whose price has been marked at Rs. 5000?",
       "options": ["Rs 2250", "Rs 2500", "Rs 5000", "Rs 2750"],
-      "answer": "Rs. 2250"
+      "correctAnswer": "Rs. 2250"
     },
     {
       "question": "Ria has Rs. 50 and Ryan have Rs. 1.50. Find the ratio of money with Ria to money with Ryan.",
       "options": ["3/100", "10/3", "3.500", "500/2"],
-      "answer": "10/3"
+      "correctAnswer": "10/3"
     },
     {
       "question": "Three pals Sita, Fatima, and Rajeswari while returning after watching a movie, ate at a restaurant. After eating dinner, they paid their bill. They noticed a bowl full of mints at the front counter. Sita took 1/3 of the total minutes but returned four because she had momentary guilt pangs. Fatima took 1/4 of what was left but returned three. Rajeswari then took half of what was remaining but returned two back into the bowl. The bowl had only 17 minutes left when they stopped taking the minutes. How many mints were in the bowl originally?",
       "options": ["38", "31", "41", "None of these"],
-      "answer": "None of these"
+      "correctAnswer": "None of these"
     },
     {
       "question": "The price of 10 kg of apples is equal to the cost of 24 kg of rice. The price of 6 kg flour equals the cost of 2 kg rice. The cost of one kg of flour is Rs. 20.50. Find the total cost of 4 kg apples, 3 kg rice, and 5 kg flour?",
       "options": ["Rs.849.40", "Rs.877.40", "Rs.901.60", "Rs.815.20"],
-      "answer": "Rs. 877.40"
+      "correctAnswer": "Rs. 877.40"
     },
     {
       "question": "Vijay has 20 kg salt and Amar has 500 gm. Find the ratio of sugar with Vijay and Amar.",
       "options": ["8:1", "80:1", "4:1", "40:1"],
-      "answer": "40:1"
+      "correctAnswer": "40:1"
     },
     {
       "question": "A bag marked for Rs. 1600 is offered at a discount of 45%. What is the discount given?",
       "options": ["Rs 740", "Rs 720", "Rs 800", "Rs 760"],
-      "answer": "Rs 720"
+      "correctAnswer": "Rs 720"
     },
     {
       "question": "Solve the equation for x : 19(x + y) + 17 = 19(-x + y) - 21",
       "options": ["-1", "-2", "-3", "-4"],
-      "answer": "-1"
+      "correctAnswer": "-1"
     },
     {
       "question": "Satyajeet has 15 kg of sugar and Rakesh has 250 gm. Find the ratio of sugar with Satyajeet and Rakesh.",
       "options": ["3/25", "6/1", "60/1", "15/25"],
-      "answer": "60/1"
+      "correctAnswer": "60/1"
     },
     {
       "question": "Rakesh has Rs. 10 and Karan has 10 paise. Find the ratio of Rakesh's money with Rakesh and Karan's money.",
       "options": ["1/100", "100/1", "10/500", "5/2"],
-      "answer": "100/1"
+      "correctAnswer": "100/1"
     },
     {
       "question": "Kiran has only Rs. 130 left after using 35% of the money she had after shopping. Find the total money with Kiran before she went for shopping.",
       "options": ["100", "10", "65", "200"],
-      "answer": "Rs. 200"
+      "correctAnswer": "Rs. 200"
     },
     {
       "question": "Ramesh has Rs. 50 and Rohan has Rs. 2.5. Find the ratio of money with Ramesh and Rohan have with them.",
       "options": ["1/200", "200/1", "3/500", "500/2"],
-      "answer": "200/1"
+      "correctAnswer": "200/1"
     }
     
   
