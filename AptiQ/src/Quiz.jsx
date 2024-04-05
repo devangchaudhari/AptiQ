@@ -38,6 +38,12 @@ const Quiz = () => {
           description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
           buttonLink="/MCQ?category=logical"
         />
+        <Course
+          imageUrl="https://via.placeholder.com/150"
+          title="English Comprehension"
+          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          buttonLink="/MCQ?category=english"
+        />
       </div>
       <Footer />
     </div>

@@ -13,6 +13,7 @@ const questions = {
   tcs: require('./tcs.json'),
   infosys: require('./infosys.json'),
   accenture: require('./accenture.json'),
+  english: require('./english.json'),
   
   // Add more categories if needed
 };

@@ -1,0 +1,52 @@
+[
+    {
+      "question": "In the question, a part of the sentence is italicized. Alternatives to the italicized part are given which may improve the construction of the sentence. Select the correct alternative. The appropriate atmospheric conditions made it feasible for the astronomers to see the stars and they could even distinguish the sizes.",
+      "options": ["And even distinguish the sizes", "And they were even distinguishing the sizes", "And he could even distinguish the sizes", "And even distinguishing the sizes."],
+      "correctAnswer": "And even distinguish the sizes"
+    },
+    {
+      "question": "In the question, a part of the sentence is italicized. Alternatives to the italicized part are given which may improve the construction of the sentence. Select the correct alternative. The most obvious downside to this pessimism is that it is coming at their expenses.",
+      "options": ["It is coming at their expense", "It is costing at their expense", "It will be expensive", "It was coming at their expense"],
+      "correctAnswer": "It is coming at their expense"
+    },
+    {
+      "question": "Select the correct option that fills the blank(s) to make the sentence meaningfully complete. Many employees feel that the economic situation should not be a ______ to the performance management system of any organization.",
+      "options": ["Deterrent", "Encouragement", "Problem", "Symptom"],
+      "correctAnswer": "Deterrent"
+    },
+    {
+      "question": "Select the correct option that fills the blank(s) to make the sentence meaningfully complete. Mentally he _____ not been the same after his near fatal accident.",
+      "options": ["Has", "Was", "Have", "Is", "Had"],
+      "correctAnswer": "Has"
+    },
+    {
+      "question": "Select the correct option that fills the blank(s) to make the sentence meaningfully complete. Everyone improves ____ standards but this is a complete overhaul of the erstwhile superb.",
+      "options": ["On", "At", "In", "The"],
+      "correctAnswer": "The"
+    },
+    {
+      "question": "Read the sentence to find out whether there is any grammatical error in it. The error, if any, will be in one part of the sentence. The letter of that part is the answer. If there is no error, the answer is “D’. (ignore - the errors of punctuation, if any) (A)The meeting adjourned abruptly/(B) by the CEO after/(C) about three hours of deliberation./(D) No error",
+      "options": ["(A)", "(B)", "(C)", "(D)"],
+      "correctAnswer": "(A)"
+    },
+    {
+      "question": "Select the word or phrase which best expresses the meaning of the given word. PROFUSE",
+      "options": ["Defuse", "Ample", "Flimsy", "Accept", "Declare"],
+      "correctAnswer": "Ample"
+    },
+    {
+      "question": "Select the word or phrase which best expresses the meaning of the given word. CREDULITY",
+      "options": ["Credible", "Discipline", "Gullible", "Weakness"],
+      "correctAnswer": "Gullible"
+    },
+    {
+      "question": "Select the option that is most nearly opposite to the given word. FUTILE (OPPOSITE)",
+      "options": ["Useful", "Handy", "Functional", "Positive"],
+      "correctAnswer": "Useful"
+    },
+    {
+      "question": "Select the option that is most nearly opposite to the given word. LITERAL (OPPOSITE)",
+      "options": ["Factual", "Usual", "Ordinary", "Unbiased", "Figurative"],
+      "correctAnswer": "Figurative"
+    }
+  ]
