@@ -67,9 +67,10 @@ app.post('/api/submit-answers', (req, res) => {
   res.json(feedback);
 });
 
-// Wildcard route to serve index.html for client-side routing
+
+// Redirect all requests to the home page
 app.get('*', (req, res) => {
-  res.sendFile(path.join(__dirname, '../AptiQ/dist', 'index.html'));
+  res.redirect('/');
 });
 
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
