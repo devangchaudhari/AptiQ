@@ -1,0 +1,27 @@
+[
+    {
+      "question": "A student to obtain 33% of the total marks to pass. He got 125 marks and failed by 40 marks. The maximum marks are:",
+      "options": ["300", "500", "800", "1000"],
+      "correctAnswer": "500"
+    },
+    {
+      "question": "If numerator of the fraction is increased by 200% and denominator of the fraction is increased by 150%. The resultant fraction will become 9/10. What is the original fraction?",
+      "options": ["5/12", "4/7", "3/4", "7/11"],
+      "correctAnswer": "3/4"
+    },
+    {
+      "question": "First and the second number less than the third number by 30% and 37% respectively. The second number is less than the first number by?",
+      "options": ["7%", "4%", "3%", "10%"],
+      "correctAnswer": "7%"
+    },
+    {
+      "question": "A man spends 35% of his income on food, 25% on children’s education and 80% of the remaining on house rent. What percent of the income he is left with?",
+      "options": ["8%", "10%", "12%", "14%"],
+      "correctAnswer": "14%"
+    },
+    {
+      "question": "Mr. X is worried about the balance of his monthly budget. The price of petrol has increased by 40%. By what percent should he reduce the consumption of petrol so that he is able to balance his budget?",
+      "options": ["28%", "28.57%", "40%", "35%"],
+      "correctAnswer": "28.57%"
+    }
+  ]
