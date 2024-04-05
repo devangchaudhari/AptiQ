@@ -8,7 +8,7 @@
     "routes": [
       {
         "src": "/(.*)",
-        "dest": "/AptiQ/dist/index.html"
+        "dest": "server.js"
       }
      
     ]
