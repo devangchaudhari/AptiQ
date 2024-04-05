@@ -1,7 +1,6 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require("cors");
-const path = require("path");
 
 const app = express();
 const PORT = process.env.PORT || 5000;
@@ -14,6 +13,7 @@ const questions = {
   tcs: require('./tcs.json'),
   infosys: require('./infosys.json'),
   accenture: require('./accenture.json'),
+  
   // Add more categories if needed
 };
 const certify = require('./certificate.json');
@@ -26,14 +26,16 @@ app.use(cors(
     credentials: true
   }
 ));
+app.use(express.json());
 
-// Serve static files from AptiQ/dist directory
-app.use(express.static(path.join(__dirname, '../AptiQ/src')));
 
-// Endpoint for certificate question
+
+
+//Endpoint for certificate question
 app.get('/certify', (req, res) => {
   res.json(certify);
 });
+
 
 // Endpoint to get questions based on category
 app.get('/questions/:category', (req, res) => {
@@ -68,13 +70,8 @@ app.post('/api/submit-answers', (req, res) => {
 });
 
 
-// Redirect all requests to the home page
-app.get('*', (req, res) => {
-  res.redirect('/');
-});
 
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
-
 
 
 
