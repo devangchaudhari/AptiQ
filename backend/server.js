@@ -14,7 +14,6 @@ const questions = {
   tcs: require('./tcs.json'),
   infosys: require('./infosys.json'),
   accenture: require('./accenture.json'),
-  
   // Add more categories if needed
 };
 const certify = require('./certificate.json');
@@ -27,16 +26,14 @@ app.use(cors(
     credentials: true
   }
 ));
-app.use(express.json());
 
+// Serve static files from AptiQ/dist directory
+app.use(express.static(path.join(__dirname, '../AptiQ/dist')));
 
-
-
-//Endpoint for certificate question
+// Endpoint for certificate question
 app.get('/certify', (req, res) => {
   res.json(certify);
 });
-
 
 // Endpoint to get questions based on category
 app.get('/questions/:category', (req, res) => {
@@ -70,11 +67,13 @@ app.post('/api/submit-answers', (req, res) => {
   res.json(feedback);
 });
 
+// Wildcard route to serve index.html for client-side routing
 app.get('*', (req, res) => {
   res.sendFile(path.join(__dirname, '../AptiQ/dist', 'index.html'));
 });
 
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
+
 
 
 
