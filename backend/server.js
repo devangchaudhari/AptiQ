@@ -9,8 +9,14 @@ const PORT = process.env.PORT || 5000;
 const questions = {
   general: require('./questions.json'),
   logical: require('./logical.json'),
+  c_lang: require('./c_lang.json'),
+  cpp_lang: require('./c++_lang.json'),
+  java_lang: require('./java_lang.json'),
+  verbal: require('./verbal.json'),
   blood: require('./bloodrelation.json'),
   english: require('./english.json'),
+
+
   tcs: require('./tcs.json'),
   infosys: require('./infosys.json'),
   accenture: require('./accenture.json'),

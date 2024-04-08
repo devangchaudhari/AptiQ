@@ -1,0 +1,184 @@
+[
+      {
+        "question": "Which keyword is used to declare a constant in C++?",
+        "options": ["const", "var", "let", "final"],
+        "correctAnswer": "const"
+      },
+      {
+        "question": "What does the 'cin' object do in C++?",
+        "options": ["Prints formatted output", "Reads formatted input", "Allocates memory", "Performs arithmetic operations"],
+        "correctAnswer": "Reads formatted input"
+      },
+      {
+        "question": "Which symbol is used for a single-line comment in C++?",
+        "options": ["//", "/*", "#", "--"],
+        "correctAnswer": "//"
+      },
+      {
+        "question": "What is the size of 'int' data type in C++?",
+        "options": ["2 bytes", "4 bytes", "8 bytes", "Depends on the system architecture"],
+        "correctAnswer": "Depends on the system architecture"
+      },
+      {
+        "question": "Which keyword is used to allocate memory dynamically in C++?",
+        "options": ["malloc()", "calloc()", "new", "delete"],
+        "correctAnswer": "new"
+      },
+      {
+        "question": "What does the 'strlen' function do in C++?",
+        "options": ["Calculates the length of a string", "Compares two strings", "Copies a string", "Concatenates two strings"],
+        "correctAnswer": "Calculates the length of a string"
+      },
+      {
+        "question": "Which header file is needed for file input/output operations in C++?",
+        "options": ["<iostream>", "<stdlib.h>", "<cmath>", "<cstring>"],
+        "correctAnswer": "<iostream>"
+      },
+      {
+        "question": "What is the output of 'cout << 5/2;' in C++?",
+        "options": ["2.5", "2", "2.0", "5/2"],
+        "correctAnswer": "2"
+      },
+      {
+        "question": "Which loop in C++ is best suited for situations where the number of iterations is known?",
+        "options": ["for loop", "while loop", "do-while loop", "switch loop"],
+        "correctAnswer": "for loop"
+      },
+      {
+        "question": "What is the operator for taking the address of a variable in C++?",
+        "options": ["*", "&", "#", "@"],
+        "correctAnswer": "&"
+      },
+      {
+        "question": "What does the 'strcmp' function do in C++?",
+        "options": ["Compares two strings", "Copies a string", "Calculates the length of a string", "Concatenates two strings"],
+        "correctAnswer": "Compares two strings"
+      },
+      {
+        "question": "Which function is used to open a file in C++?",
+        "options": ["open()", "fopen()", "read()", "ofstream()"],
+        "correctAnswer": "ofstream()"
+      },
+      {
+        "question": "What is the purpose of the 'break' statement in C++?",
+        "options": ["Exits the loop immediately", "Continues to the next iteration of the loop", "Ends the program", "Prints a message"],
+        "correctAnswer": "Exits the loop immediately"
+      },
+      {
+        "question": "Which data type in C++ is used to store characters?",
+        "options": ["char", "int", "float", "double"],
+        "correctAnswer": "char"
+      },
+      {
+        "question": "What does the 'exit()' function do in C++?",
+        "options": ["Terminates the program", "Pauses the program", "Prints a message", "Opens a file"],
+        "correctAnswer": "Terminates the program"
+      },
+      {
+        "question": "Which operator is used for logical AND in C++?",
+        "options": ["&&", "||", "!", "&"],
+        "correctAnswer": "&&"
+      },
+      {
+        "question": "What is the purpose of the 'continue' statement in C++?",
+        "options": ["Skips the remaining code in the loop and jumps to the next iteration", "Exits the loop immediately", "Ends the program", "Prints a message"],
+        "correctAnswer": "Skips the remaining code in the loop and jumps to the next iteration"
+      },
+      {
+        "question": "Which function is used to print a character to the console in C++?",
+        "options": ["printf()", "scanf()", "puts()", "cout"],
+        "correctAnswer": "cout"
+      },
+      {
+        "question": "What is the purpose of the 'default' case in a switch statement in C++?",
+        "options": ["It is executed when no other case matches", "It is always executed first", "It is used to compare values", "It is used for error handling"],
+        "correctAnswer": "It is executed when no other case matches"
+      },
+      {
+        "question": "What does the 'fclose()' function do in C++?",
+        "options": ["Closes a file", "Opens a file", "Reads from a file", "Writes to a file"],
+        "correctAnswer": "Closes a file"
+      },
+      {
+        "question": "Which data type in C++ is used to store whole numbers?",
+        "options": ["int", "char", "float", "double"],
+        "correctAnswer": "int"
+      },
+      {
+        "question": "What is the output of 'cout << 5/2;' in C++?",
+        "options": ["2.5", "2", "2.0", "5/2"],
+        "correctAnswer": "2"
+      },
+      {
+        "question": "Which keyword is used to define a function in C++?",
+        "options": ["def", "func", "function", "void"],
+        "correctAnswer": "void"
+      },
+      {
+        "question": "What is the purpose of the 'sizeof' operator in C++?",
+        "options": ["Returns the size of a variable or data type in bytes", "Performs arithmetic operations", "Compares two values", "Assigns a value to a variable"],
+        "correctAnswer": "Returns the size of a variable or data type in bytes"
+      },
+      {
+        "question": "Which function is used to read a character from the console in C++?",
+        "options": ["scanf()", "printf()", "gets()", "cin"],
+        "correctAnswer": "cin"
+      },
+      {
+        "question": "What is the purpose of the 'typedef' keyword in C++?",
+        "options": ["Creates an alias for data types", "Defines a new function", "Declares a constant", "Allocates memory"],
+        "correctAnswer": "Creates an alias for data types"
+      },
+      {
+        "question": "What is the output of 'cout << char(65);' in C++?",
+        "options": ["A", "B", "C", "D"],
+        "correctAnswer": "A"
+    },
+    {
+      "question": "Which operator is used for pointer dereferencing in C++?",
+      "options": ["*", "&", "->", "=>"],
+      "correctAnswer": "*"
+    },
+    {
+      "question": "What does the 'free()' function do in C++?",
+      "options": ["Frees dynamically allocated memory", "Opens a file", "Closes a file", "Returns a pointer to a memory location"],
+      "correctAnswer": "Frees dynamically allocated memory"
+    },
+    {
+      "question": "Which keyword is used to access the address of a variable in C++?",
+      "options": ["addressof", "pointerto", "pointer", "address"],
+      "correctAnswer": "pointer"
+    },
+    {
+      "question": "What is the purpose of the 'union' keyword in C++?",
+      "options": ["Allows different data types to be stored in the same memory location", "Declares a constant", "Defines a new function", "Allocates memory"],
+      "correctAnswer": "Allows different data types to be stored in the same memory location"
+    },
+    {
+      "question": "Which function is used to convert a string to a floating-point number in C++?",
+      "options": ["atoi()", "atof()", "itoa()", "sprintf()"],
+      "correctAnswer": "atof()"
+    },
+    {
+      "question": "What is the purpose of the 'do-while' loop in C++?",
+      "options": ["Executes a block of code repeatedly until a condition is false", "Executes a block of code once and then repeats it", "Executes a block of code repeatedly while a condition is true", "Executes a block of code only if a condition is true"],
+      "correctAnswer": "Executes a block of code repeatedly while a condition is true"
+    },
+    {
+      "question": "Which operator is used for pointer arithmetic in C++?",
+      "options": ["*", "&", "->", "=>"],
+      "correctAnswer": "*"
+    },
+    {
+      "question": "What is the purpose of the 'extern' keyword in C++?",
+      "options": ["Declares a global variable", "Defines a new function", "Declares a constant", "Allocates memory"],
+      "correctAnswer": "Declares a global variable"
+    },
+    {
+      "question": "Which keyword is used to include a header file in C++?",
+      "options": ["#import", "#include", "#define", "#require"],
+      "correctAnswer": "#include"
+    }
+  ]
+
+  

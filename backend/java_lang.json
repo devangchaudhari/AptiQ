@@ -1,0 +1,185 @@
+[
+      {
+        "question": "Which keyword is used to declare a constant in Java?",
+        "options": ["const", "var", "let", "final"],
+        "correctAnswer": "final"
+      },
+      {
+        "question": "What does the 'Scanner' class do in Java?",
+        "options": ["Prints formatted output", "Reads formatted input", "Allocates memory", "Performs arithmetic operations"],
+        "correctAnswer": "Reads formatted input"
+      },
+      {
+        "question": "Which symbol is used for a single-line comment in Java?",
+        "options": ["//", "/*", "#", "--"],
+        "correctAnswer": "//"
+      },
+      {
+        "question": "What is the size of 'int' data type in Java?",
+        "options": ["2 bytes", "4 bytes", "8 bytes", "Depends on the system architecture"],
+        "correctAnswer": "4 bytes"
+      },
+      {
+        "question": "Which keyword is used to allocate memory dynamically in Java?",
+        "options": ["malloc()", "calloc()", "new", "delete"],
+        "correctAnswer": "new"
+      },
+      {
+        "question": "What does the 'length' property do in Java for arrays?",
+        "options": ["Calculates the length of an array", "Compares two arrays", "Copies an array", "Concatenates two arrays"],
+        "correctAnswer": "Calculates the length of an array"
+      },
+      {
+        "question": "Which package is needed for file input/output operations in Java?",
+        "options": ["java.io", "java.util", "java.net", "java.lang"],
+        "correctAnswer": "java.io"
+      },
+      {
+        "question": "What is the output of 'System.out.println(5/2);' in Java?",
+        "options": ["2.5", "2", "2.0", "5/2"],
+        "correctAnswer": "2"
+      },
+      {
+        "question": "Which loop in Java is best suited for situations where the number of iterations is known?",
+        "options": ["for loop", "while loop", "do-while loop", "switch loop"],
+        "correctAnswer": "for loop"
+      },
+      {
+        "question": "What is the operator for taking the address of a variable in Java?",
+        "options": ["*", "&", "#", "@"],
+        "correctAnswer": "&"
+      },
+      {
+        "question": "What does the 'equals()' method do in Java?",
+        "options": ["Compares two objects for equality", "Copies an object", "Calculates the length of an object", "Concatenates two objects"],
+        "correctAnswer": "Compares two objects for equality"
+      },
+      {
+        "question": "Which class is used to handle file operations in Java?",
+        "options": ["File", "Files", "FileHandler", "FileIO"],
+        "correctAnswer": "File"
+      },
+      {
+        "question": "What is the purpose of the 'break' statement in Java?",
+        "options": ["Exits the loop immediately", "Continues to the next iteration of the loop", "Ends the program", "Prints a message"],
+        "correctAnswer": "Exits the loop immediately"
+      },
+      {
+        "question": "Which data type in Java is used to store characters?",
+        "options": ["char", "int", "float", "double"],
+        "correctAnswer": "char"
+      },
+      {
+        "question": "What does the 'System.exit()' method do in Java?",
+        "options": ["Terminates the program", "Pauses the program", "Prints a message", "Opens a file"],
+        "correctAnswer": "Terminates the program"
+      },
+      {
+        "question": "Which operator is used for logical AND in Java?",
+        "options": ["&&", "||", "!", "&"],
+        "correctAnswer": "&&"
+      },
+      {
+        "question": "What is the purpose of the 'continue' statement in Java?",
+        "options": ["Skips the remaining code in the loop and jumps to the next iteration", "Exits the loop immediately", "Ends the program", "Prints a message"],
+        "correctAnswer": "Skips the remaining code in the loop and jumps to the next iteration"
+      },
+      {
+        "question": "Which method is used to print a string to the console in Java?",
+        "options": ["printf()", "scanf()", "println()", "print()"],
+        "correctAnswer": "println()"
+      },
+      {
+        "question": "What is the purpose of the 'default' case in a switch statement in Java?",
+        "options": ["It is executed when no other case matches", "It is always executed first", "It is used to compare values", "It is used for error handling"],
+        "correctAnswer": "It is executed when no other case matches"
+      },
+      {
+        "question": "What does the 'close()' method do in Java for file handling?",
+        "options": ["Closes a file", "Opens a file", "Reads from a file", "Writes to a file"],
+        "correctAnswer": "Closes a file"
+      },
+      {
+        "question": "Which data type in Java is used to store whole numbers?",
+        "options": ["int", "char", "float", "double"],
+        "correctAnswer": "int"
+      },
+      {
+        "question": "What is the output of 'System.out.println(5/2);' in Java?",
+        "options": ["2.5", "2", "2.0", "5/2"],
+        "correctAnswer": "2"
+      },
+      {
+        "question": "Which keyword is used to define a method in Java?",
+        "options": ["def", "func", "method", "void"],
+        "correctAnswer": "void"
+      },
+      {
+        "question": "What is the purpose of the 'instanceof' operator in Java?",
+        "options": ["Checks if an object is an instance of a particular class", "Performs arithmetic operations", "Compares two values", "Assigns a value to a variable"],
+        "correctAnswer": "Checks if an object is an instance of a particular class"
+      },
+      {
+        "question": "Which method is used to read input from the console in Java?",
+        "options": ["scanf()", "printf()", "gets()", "nextLine()"],
+        "correctAnswer": "nextLine()"
+      },
+      {
+        "question": "What is the purpose of the 'extends' keyword in Java?",
+        "options": ["Indicates inheritance", "Defines a new class", "Declares a constant", "Allocates memory"],
+        "correctAnswer": "Indicates inheritance"
+      },
+      {
+        "question": "What is the output of 'System.out.println((char)65);' in Java?",
+        "options": ["A", "B", "C", "D"],
+        "correctAnswer": "A"
+      },
+      {
+        "question": "Which operator is used for pointer dereferencing in Java?",
+        "options": ["*", "&", "->", "=>"],
+        "correctAnswer": "*"
+      },
+      {
+        "question": "What does the 'free()' function do in Java?",
+        "options": ["Frees dynamically allocated memory", "Opens a file", "Closes a file", "Returns a pointer to a memory location"],
+        "correctAnswer": "N/A - Java does not use 'free()' for memory deallocation"
+      },
+      {
+        "question": "Which keyword is used to access the address of a variable in Java?",
+        "options": ["addressof", "pointerto", "pointer", "address"],
+        "correctAnswer": "N/A - Java does not support direct memory manipulation with pointers"
+      },
+      {
+        "question": "What is the purpose of the 'union' keyword in Java?",
+        "options": ["Allows different data types to be stored in the same memory location", "Declares a constant", "Defines a new function", "Allocates memory"],
+        "correctAnswer": "N/A - Java does not have a 'union' keyword"
+      },
+      {
+        "question": "Which method is used to convert a string to a floating-point number in Java?",
+        "options": ["atoi()", "atof()", "Double.parseDouble()", "Float.parseFloat()"],
+        "correctAnswer": "Double.parseDouble()"
+      },
+      {
+        "question": "What is the purpose of the 'do-while' loop in Java?",
+        "options": ["Executes a block of code repeatedly until a condition is false", "Executes a block of code once and then repeats it", "Executes a block of code repeatedly while a condition is true", "Executes a block of code only if a condition is true"],
+        "correctAnswer": "Executes a block of code repeatedly while a condition is true"
+      },
+      {
+        "question": "Which operator is used for pointer arithmetic in Java?",
+        "options": ["*", "&", "->", "=>"],
+        "correctAnswer": "N/A - Java does not have pointer arithmetic"
+      },
+      {
+        "question": "What is the purpose of the 'extern' keyword in Java?",
+        "options": ["Declares a global variable", "Defines a new function", "Declares a constant", "Allocates memory"],
+        "correctAnswer": "N/A - Java does not have an 'extern' keyword"
+      },
+      {
+        "question": "Which keyword is used to include a header file in Java?",
+        "options": ["#import", "#include", "#define", "#require"],
+        "correctAnswer": "N/A - Java does not use preprocessor directives for including header files"
+      }
+    ]
+
+  
+  

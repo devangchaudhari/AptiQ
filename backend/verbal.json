@@ -1,0 +1,180 @@
+[
+      {
+        "question": "What is the synonym of 'meticulous'?",
+        "options": ["Careless", "Detailed", "Messy", "Sloppy"],
+        "correctAnswer": "Detailed"
+      },
+      {
+        "question": "What is the antonym of 'vast'?",
+        "options": ["Small", "Huge", "Enormous", "Immense"],
+        "correctAnswer": "Small"
+      },
+      {
+        "question": "What does 'ephemeral' mean?",
+        "options": ["Lasting a very short time", "Eternal", "Prolonged", "Stable"],
+        "correctAnswer": "Lasting a very short time"
+      },
+      {
+        "question": "What is the synonym of 'conundrum'?",
+        "options": ["Solution", "Riddle", "Clarity", "Answer"],
+        "correctAnswer": "Riddle"
+      },
+      {
+        "question": "What is the antonym of 'obscure'?",
+        "options": ["Clear", "Hidden", "Unclear", "Ambiguous"],
+        "correctAnswer": "Clear"
+      },
+      {
+        "question": "What does 'altruistic' mean?",
+        "options": ["Selfish", "Generous", "Greedy", "Caring"],
+        "correctAnswer": "Generous"
+      },
+      {
+        "question": "What is the synonym of 'resilient'?",
+        "options": ["Fragile", "Weak", "Robust", "Delicate"],
+        "correctAnswer": "Robust"
+      },
+      {
+        "question": "What is the antonym of 'opaque'?",
+        "options": ["Transparent", "Dull", "Cloudy", "Opaque"],
+        "correctAnswer": "Transparent"
+      },
+      {
+        "question": "What does 'ubiquitous' mean?",
+        "options": ["Present, appearing, or found everywhere", "Rare", "Limited", "Exclusive"],
+        "correctAnswer": "Present, appearing, or found everywhere"
+      },
+      {
+        "question": "What is the synonym of 'exemplary'?",
+        "options": ["Common", "Average", "Typical", "Outstanding"],
+        "correctAnswer": "Outstanding"
+      },
+      {
+        "question": "What is the antonym of 'magnify'?",
+        "options": ["Enlarge", "Shrink", "Expand", "Amplify"],
+        "correctAnswer": "Shrink"
+      },
+      {
+        "question": "What does 'equivocate' mean?",
+        "options": ["To be clear and straightforward", "To confuse or mislead", "To hide or conceal", "To reveal openly"],
+        "correctAnswer": "To confuse or mislead"
+      },
+      {
+        "question": "What is the synonym of 'ubiquitous'?",
+        "options": ["Unique", "Rare", "Pervasive", "Exclusive"],
+        "correctAnswer": "Pervasive"
+      },
+      {
+        "question": "What is the antonym of 'diligent'?",
+        "options": ["Lazy", "Industrious", "Hardworking", "Conscientious"],
+        "correctAnswer": "Lazy"
+      },
+      {
+        "question": "What does 'ephemeral' mean?",
+        "options": ["Lasting a very short time", "Eternal", "Prolonged", "Stable"],
+        "correctAnswer": "Lasting a very short time"
+      },
+      {
+        "question": "What is the synonym of 'ephemeral'?",
+        "options": ["Long-lasting", "Permanent", "Brief", "Stable"],
+        "correctAnswer": "Brief"
+      },
+      {
+        "question": "What is the antonym of 'venerate'?",
+        "options": ["Admire", "Respect", "Revere", "Despise"],
+        "correctAnswer": "Despise"
+      },
+      {
+        "question": "What does 'eloquent' mean?",
+        "options": ["Fluent or persuasive in speaking or writing", "Shy", "Quiet", "Reserved"],
+        "correctAnswer": "Fluent or persuasive in speaking or writing"
+      },
+      {
+        "question": "What is the synonym of 'intrepid'?",
+        "options": ["Fearless", "Timid", "Cautious", "Afraid"],
+        "correctAnswer": "Fearless"
+      },
+      {
+        "question": "What is the antonym of 'subtle'?",
+        "options": ["Obvious", "Blatant", "Evident", "Clear"],
+        "correctAnswer": "Obvious"
+      },
+      {
+        "question": "What does 'amiable' mean?",
+        "options": ["Friendly and pleasant", "Unfriendly", "Hostile", "Cold"],
+        "correctAnswer": "Friendly and pleasant"
+      },
+      {
+        "question": "What is the synonym of 'adroit'?",
+        "options": ["Inept", "Clumsy", "Skillful", "Awkward"],
+        "correctAnswer": "Skillful"
+      },
+      {
+        "question": "What is the antonym of 'repudiate'?",
+        "options": ["Reject", "Accept", "Deny", "Disclaim"],
+        "correctAnswer": "Accept"
+      },
+      {
+        "question": "What does 'laconic' mean?",
+        "options": ["Using very few words", "Verbose", "Loquacious", "Talkative"],
+        "correctAnswer": "Using very few words"
+      },
+      {
+        "question": "What is the synonym of 'punctual'?",
+        "options": ["Late", "Tardy", "Prompt", "Delayed"],
+        "correctAnswer": "Prompt"
+      },
+      {
+        "question": "What is the antonym of 'innocuous'?",
+        "options": ["Harmless", "Benign", "Safe", "Dangerous"],
+        "correctAnswer": "Dangerous"
+      },
+      {
+        "question": "What does 'zealous' mean?",
+        "options": ["Passionate", "Apathetic", "Indifferent", "Uninterested"],
+        "correctAnswer": "Passionate"
+      },
+      {
+        "question": "What is the synonym of 'sagacious'?",
+        "options": ["Wise", "Stupid", "Foolish", "Sensible"],
+        "correctAnswer": "Wise"
+      },
+      {
+        "question": "What is the antonym of 'abate'?",
+        "options": ["Decrease", "Diminish", "Subside", "Intensify"],
+        "correctAnswer": "Intensify"
+      },
+      {
+        "question": "What does 'gratuitous' mean?",
+        "options": ["Given or done free of charge", "Expected", "Necessary", "Required"],
+        "correctAnswer": "Given or done free of charge"
+      },
+      {
+        "question": "What is the synonym of 'dubious'?",
+        "options": ["Questionable", "Certain", "Confident", "Assured"],
+        "correctAnswer": "Questionable"
+      },
+      {
+        "question": "What is the antonym of 'benevolent'?",
+        "options": ["Kind", "Generous", "Charitable", "Malevolent"],
+        "correctAnswer": "Malevolent"
+      },
+      {
+        "question": "What does 'pulchritudinous' mean?",
+        "options": ["Physically beautiful", "Ugly", "Attractive", "Pretty"],
+        "correctAnswer": "Physically beautiful"
+      },
+      {
+        "question": "What is the synonym of 'pragmatic'?",
+        "options": ["Practical", "Idealistic", "Visionary", "Theoretical"],
+        "correctAnswer": "Practical"
+      },
+      {
+        "question": "What is the antonym of 'surreptitious'?",
+        "options": ["Open", "Honest", "Transparent", "Aboveboard"],
+        "correctAnswer": "Aboveboard"
+      }
+    ]
+
+  
+  

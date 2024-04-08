@@ -15,31 +15,43 @@ const Quiz = () => {
 
       <div className="flex flex-wrap justify-center">
         <Course
-          imageUrl="https://via.placeholder.com/150"
+          imageUrl="c-language.png"
           title="C Language"
           description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-          buttonLink="/MCQ?category=general"
+          buttonLink="/MCQ?category=c_lang"
         />
         <Course
-          imageUrl="https://via.placeholder.com/150"
+          imageUrl="Blood.jpg"
           title="Blood Relation"
           description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
           buttonLink="/MCQ?category=blood"
         />
         <Course
-          imageUrl="https://via.placeholder.com/150"
+          imageUrl="java.png"
+          title="Java"
+          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          buttonLink="/MCQ?category=java_lang"
+        />
+        <Course
+          imageUrl="c++_lang.png"
+          title="C++ Language"
+          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          buttonLink="/MCQ?category=cpp_lang"
+        />
+        <Course
+          imageUrl="verbal.png"
+          title="Verbal"
+          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          buttonLink="/MCQ?category=verbal"
+        />
+        <Course
+          imageUrl="logical.png"
           title="Logical"
           description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
           buttonLink="/MCQ?category=logical"
         />
         <Course
-          imageUrl="https://via.placeholder.com/150"
-          title="C++ Language"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-          buttonLink="/MCQ?category=logical"
-        />
-        <Course
-          imageUrl="https://via.placeholder.com/150"
+          imageUrl="english.jpg"
           title="English Comprehension"
           description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
           buttonLink="/MCQ?category=english"
